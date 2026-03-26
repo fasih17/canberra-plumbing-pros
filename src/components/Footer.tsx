@@ -40,7 +40,7 @@ const Footer = () => {
           <div>
             <h4 className="font-display font-semibold text-primary-foreground mb-4">Contact</h4>
             <ul className="space-y-3 text-sm">
-              <li className="flex items-center gap-2"><Phone className="w-4 h-4 text-secondary" /> <a href="tel:0261234567" className="hover:text-primary-foreground">(02) 6123 4567</a></li>
+              <li className="flex items-center gap-2"><Phone className="w-4 h-4 text-secondary" /> <a href="tel:0448745324" className="hover:text-primary-foreground">0448 745 324</a></li>
               <li className="flex items-center gap-2"><Mail className="w-4 h-4 text-secondary" /> info@samedayplumbing.com.au</li>
               <li className="flex items-start gap-2"><MapPin className="w-4 h-4 text-secondary mt-0.5" /> Servicing all of Canberra, ACT</li>
               <li className="flex items-center gap-2"><Clock className="w-4 h-4 text-secondary" /> 24/7 — 365 days</li>

@@ -13,8 +13,8 @@ const CTABanner = () => {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button variant="cta" size="lg" className="text-base px-8 py-6" asChild>
-            <a href="tel:0261234567">
-              <Phone className="w-5 h-5" /> Call (02) 6123 4567
+            <a href="tel:0448745324">
+              <Phone className="w-5 h-5" /> Call 0448 745 324
             </a>
           </Button>
           <Button variant="outline-light" size="lg" className="text-base px-8 py-6" asChild>
