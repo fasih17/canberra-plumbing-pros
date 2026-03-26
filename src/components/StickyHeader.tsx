@@ -63,12 +63,12 @@ const StickyHeader = () => {
           </nav>
 
           <div className="flex items-center gap-3">
-            <a href="tel:0261234567" className="hidden sm:flex items-center gap-2 text-primary font-semibold text-sm">
+            <a href="tel:0448745324" className="hidden sm:flex items-center gap-2 text-primary font-semibold text-sm">
               <Phone className="w-4 h-4" />
-              (02) 6123 4567
+              0448 745 324
             </a>
             <Button variant="cta" size="sm" asChild>
-              <a href="tel:0261234567">Call Now</a>
+              <a href="tel:0448745324">Call Now</a>
             </Button>
             <button
               className="lg:hidden p-2 rounded-md hover:bg-accent"
@@ -97,8 +97,8 @@ const StickyHeader = () => {
                   {link.label}
                 </Link>
               ))}
-              <a href="tel:0261234567" className="flex items-center gap-2 px-4 py-3 text-primary font-semibold sm:hidden">
-                <Phone className="w-4 h-4" /> (02) 6123 4567
+              <a href="tel:0448745324" className="flex items-center gap-2 px-4 py-3 text-primary font-semibold sm:hidden">
+                <Phone className="w-4 h-4" /> 0448 745 324
               </a>
             </nav>
           </div>

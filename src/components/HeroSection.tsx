@@ -29,7 +29,7 @@ const HeroSection = () => {
 
           <div className="flex flex-col sm:flex-row gap-4 mb-12">
             <Button variant="cta" size="lg" className="text-base px-8 py-6" asChild>
-              <a href="tel:0261234567">
+              <a href="tel:0448745324">
                 <Phone className="w-5 h-5" /> Call Now — Free Quote
               </a>
             </Button>

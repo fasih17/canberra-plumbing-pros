@@ -28,13 +28,13 @@ const ContactPage = () => {
                 </div>
                 <p className="text-muted-foreground mb-4">Don't wait — call us right now for immediate assistance. We're available 24/7.</p>
                 <Button variant="cta" size="lg" className="w-full" asChild>
-                  <a href="tel:0261234567"><Phone className="w-5 h-5" /> Call (02) 6123 4567 Now</a>
+                  <a href="tel:0448745324"><Phone className="w-5 h-5" /> Call 0448 745 324 Now</a>
                 </Button>
               </div>
 
               <h2 className="font-display font-bold text-2xl text-foreground mb-6">Get in Touch</h2>
               <ul className="space-y-4 mb-8">
-                <li className="flex items-center gap-3"><Phone className="w-5 h-5 text-primary" /> <a href="tel:0261234567" className="text-foreground font-medium">(02) 6123 4567</a></li>
+                <li className="flex items-center gap-3"><Phone className="w-5 h-5 text-primary" /> <a href="tel:0448745324" className="text-foreground font-medium">0448 745 324</a></li>
                 <li className="flex items-center gap-3"><Mail className="w-5 h-5 text-primary" /> <span className="text-foreground">info@samedayplumbing.com.au</span></li>
                 <li className="flex items-center gap-3"><Clock className="w-5 h-5 text-primary" /> <span className="text-foreground">Open 24/7 — 365 days a year</span></li>
                 <li className="flex items-start gap-3"><MapPin className="w-5 h-5 text-primary mt-0.5" /> <span className="text-foreground">Servicing all of Canberra & surrounds</span></li>
